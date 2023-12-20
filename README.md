@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a passionate Software Engineer based in New York, NY, with a focus on creating full stack web applications.
+
+🚀 Skills:
+
+React.js | Redux | JavaScript
+Python | Flask | Express
+HTML5 | CSS3 | SQL | PostgreSQL
+AWS | Heroku
