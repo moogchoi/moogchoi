@@ -19,6 +19,9 @@ I'm a passionate Software Engineer based in New York, NY, with a focus on creati
 🚀 Skills:
 
 React.js | Redux | JavaScript
+
 Python | Flask | Express
+
 HTML5 | CSS3 | SQL | PostgreSQL
+
 AWS | Heroku
