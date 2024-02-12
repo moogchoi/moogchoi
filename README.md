@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer based in New York, NY, with a focus on creating full stack web applications.
+I'm a Software Engineer based in New York, NY with a focus on creating full stack web applications.
 
 🚀 Skills:
 
