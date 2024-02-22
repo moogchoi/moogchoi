@@ -29,7 +29,7 @@ AWS | Heroku
 📫 How to reach me:
 
 <div id="badges">
-  <a target=”_blank” rel="noopener" href="www.linkedin.com/in/mugil-choi-941687194"  >
+  <a href="www.linkedin.com/in/mugil-choi-941687194" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://moogchoi.github.io/" target=”_blank” rel="noopener">
