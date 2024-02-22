@@ -28,4 +28,11 @@ AWS | Heroku
 
 📫 How to reach me:
 
-https://moogchoi.github.io/
+<div id="badges">
+  <a target=”_blank” rel="noopener" href="www.linkedin.com/in/mugil-choi-941687194"  >
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://moogchoi.github.io/" target=”_blank” rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
+  </a>
+</div>
