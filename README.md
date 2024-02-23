@@ -18,7 +18,8 @@ I'm a Software Engineer based in New York, NY with a focus on creating full stac
 
 🚀 Skills:
 
-React.js | Redux | JavaScript
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 Python | Flask | Express
 
