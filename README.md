@@ -24,6 +24,8 @@ I'm a Software Engineer based in New York, NY with a focus on creating full stac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
+💻 I'm currently working on: https://moogcloud.onrender.com/
+
 📫 How to reach me:
 
 <div id="badges">
@@ -31,5 +33,3 @@ I'm a Software Engineer based in New York, NY with a focus on creating full stac
     <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
   </a>
 </div>
-
-💻 I'm currently working on: https://moogcloud.onrender.com/
