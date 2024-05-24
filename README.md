@@ -26,7 +26,9 @@ I'm a Software Engineer based in New York with a focus on creating full stack we
 
 💻 I'm currently working on: https://moogcloud.onrender.com/
 
-📫 How to reach me: <div id="badges">
+📫 How to reach me: 
+
+<div id="badges">
   <a href="https://moogchoi.github.io/" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
   </a>
