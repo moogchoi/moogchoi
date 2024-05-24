@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer based in New York, NY with a focus on creating full stack web applications.
+I'm a Software Engineer based in New York with a focus on creating full stack web applications.
 
 🚀 Skills:
 
@@ -31,5 +31,8 @@ I'm a Software Engineer based in New York, NY with a focus on creating full stac
 <div id="badges">
   <a href="https://moogchoi.github.io/" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/mugil-choi-941687194/" target=”_blank” rel="noopener">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="portfolio badge"/>  
   </a>
 </div>
