@@ -24,7 +24,9 @@ I'm a Software Engineer based in New York with a focus on creating full stack we
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
+<!--
 💻 I'm currently working on: https://moogcloud.onrender.com/
+-->
 
 📫 More about me: 
 
