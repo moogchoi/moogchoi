@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello
 
 <!--
 **moogchoi/moogchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ I'm a Software Engineer based in New York with a focus on creating full stack we
 💻 I'm currently working on: https://moogcloud.onrender.com/
 -->
 
-📫 More about me: 
+## More about me: 
 
 <div id="badges">
   <a href="https://moogchoi.github.io/" target=”_blank” rel="noopener">
