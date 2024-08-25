@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software Engineer based in New York with a focus on creating full stack web applications.
+Hi, my name is Mugil and I'm a full-stack developer.
 
 ## Skills:
 
