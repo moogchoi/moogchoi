@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, my name is Mugil and I'm a full-stack developer.
 
-- 💻 I'm currently working on: https://moogcloud.onrender.com/
+<!--- 💻 I'm currently working on: https://moogcloud.onrender.com/-->
 - 📫 How to reach me: mugil.choi@gmail.com
   
 ## Skills:
